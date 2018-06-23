@@ -1,0 +1,208 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>W3C Example Table</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+            <table class="datagrid" style="width: 100%"> 
+            <tbody><tr>
+                <th>अ.क्र.</th>
+                <th>तहसिल कर्यालय</th>
+                                    <th>2015</th>
+                                    <th>2016</th>
+                                    <th>2017</th>
+                                    <th>2018</th>
+                                <th>एकूण</th>
+            </tr>
+                                <tr>
+                        <td>1</td>
+                        <td>मिरज</td>
+
+                        
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                2                            </td>
+                                                        <td>2</td>
+                    </tr>
+                                <tr>
+                        <td>2</td>
+                        <td>तासगाव</td>
+
+                        
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                                        <td>0</td>
+                    </tr>
+                                <tr>
+                        <td>3</td>
+                        <td>कवठे महांकाळ</td>
+
+                        
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                                        <td>0</td>
+                    </tr>
+                                <tr>
+                        <td>4</td>
+                        <td>जत</td>
+
+                        
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                                        <td>0</td>
+                    </tr>
+                                <tr>
+                        <td>5</td>
+                        <td>खानापुर</td>
+
+                        
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                                        <td>0</td>
+                    </tr>
+                                <tr>
+                        <td>6</td>
+                        <td>आटपाडी</td>
+
+                        
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                                        <td>0</td>
+                    </tr>
+                                <tr>
+                        <td>7</td>
+                        <td>पलूस</td>
+
+                        
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                                        <td>0</td>
+                    </tr>
+                                <tr>
+                        <td>8</td>
+                        <td>कडेगाव</td>
+
+                        
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                                        <td>0</td>
+                    </tr>
+                                <tr>
+                        <td>9</td>
+                        <td>वाळवा</td>
+
+                        
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                                        <td>0</td>
+                    </tr>
+                                <tr>
+                        <td>10</td>
+                        <td>शिराळा</td>
+
+                        
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                
+                            <td>
+                                0                            </td>
+                                                        <td>0</td>
+                    </tr>
+                        <tr>
+                <td colspan="2" align="right" style="padding-right: 20px;"><strong>Total</strong></td>
+                <td>
+                0            </td>
+                                <td>
+                0            </td>
+                                <td>
+                0            </td>
+                                <td>
+                2            </td>
+                                    <td>2</td>
+            </tr>
+        </tbody></table>
+        <div>
+
+    </div>
+</table></body></html>

@@ -1,0 +1,107 @@
+2015-2016,BCS,Computer Science & Engineering,1,3PH101,Compulsory/Major Course,Engineering Physics ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3MA102,Compulsory/Major Course,Engineering Mathematics II,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3CE101,Compulsory/Major Course,Basic Civil Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3ME102,Compulsory/Major Course,Basic Mechanical Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3EN101,Compulsory/Major Course,Basic Electronics Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3CS101,Compulsory/Major Course,Computer Programming ,2,0,0,2,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3BS101,Open/Institute Elective,Ecology,2,0,0,2,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3BS102,Open/Institute Elective,Biology,2,0,0,2,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3BS103,Open/Institute Elective,Material Science,2,0,0,2,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3BS104,Open/Institute Elective,Engineering Geology,2,0,0,2,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3PH151,Compulsory/Major Course,Engineering Physics Lab ,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3CE151,Compulsory/Major Course,Civil Engineering Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3CS151,Compulsory/Major Course,Computer Programming Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3ME152,Compulsory/Major Course,Mechanical Workshop/ Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BCS,Computer Science & Engineering,1,3EN151,Compulsory/Major Course,Electronics Engineering Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BCS,Computer Science & Engineering,2,3CH101,Compulsory/Major Course,Engineering Chemistry,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,2,3MA101,Compulsory/Major Course,Engineering Mathematics I ,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,2,3AM101,Compulsory/Major Course,Engineering Mechanics,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,2,3ME101,Compulsory/Major Course,Engineering Graphics,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,2,3EE101,Compulsory/Major Course,Basic Electrical Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,2,3HS101,Open/Institute Elective,Communication Skill,2,1,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,2,3HS102,Open/Institute Elective,Foreign Language,2,1,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,2,3CH151,Compulsory/Major Course,Engineerint Chemistry Lab ,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BCS,Computer Science & Engineering,2,3AM151,Compulsory/Major Course,Engineering Mechanics Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BCS,Computer Science & Engineering,2,3ME151,Compulsory/Major Course,Engineering Graphics / CAD Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BCS,Computer Science & Engineering,2,3EE151,Compulsory/Major Course,Basic Electrical Engineering Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BCS,Computer Science & Engineering,3,3CS201,Compulsory/Major Course,Discrete Mathematics,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,3,3CS202,Compulsory/Major Course,Data Structures,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,3,3CS203,Compulsory/Major Course,Data Communication & Networking,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,3,3CS204,Compulsory/Major Course,Software Engineering,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,3,3CS205,Compulsory/Major Course,Processor Architecture,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,3,3CS252,Compulsory/Major Course,Data Structures Lab,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,3,3CS255,Compulsory/Major Course,Processor Architecture Lab,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,3,3CS256,Compulsory/Major Course,Programming Lab-I,2,0,2,3,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,4,3CS211,Compulsory/Major Course,Theory of Computation,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,4,3CS212,Compulsory/Major Course,Computer Network,3,0,0,3,10,30,10,50,Theory,100,41
+2015-2016,BCS,Computer Science & Engineering,4,3CS213,Compulsory/Major Course,Operating System,3,1,0,4,10,30,10,50,Theory,100,42
+2015-2016,BCS,Computer Science & Engineering,4,3CS214,Compulsory/Major Course,Database Engineering,3,0,0,3,10,30,10,50,Theory,100,43
+2015-2016,BCS,Computer Science & Engineering,4,3CS215,Compulsory/Major Course,Statistics and Fuzzy System,3,1,0,4,10,30,10,50,Theory,100,44
+2015-2016,BCS,Computer Science & Engineering,4,3CS262,Compulsory/Major Course,Computer Network Lab,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,4,3CS264,Compulsory/Major Course,Database Engineering Lab,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,4,3CS265,Compulsory/Major Course,Programming  Lab. -II ,2,0,2,3,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,5,3OE301,Open/Institute Elective,Open Elective-I: Disaster Management,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,3OE302,Open/Institute Elective,"Open Elective-I: Remote Sensing & GIS, GPS",3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,3OE303,Open/Institute Elective,Open Elective-I: Application of Programming in Engineering using PYTHON,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,3OE304,Open/Institute Elective,Open Elective-I: Manufacturing Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,3OE305,Open/Institute Elective,Open Elective-I: Energy Engineering ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,3OE306,Open/Institute Elective,Open Elective-I: Mechanisms and Machines,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,3OE307,Open/Institute Elective,Open Elective-I: Electrical Machines,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,3OE308,Open/Institute Elective,Open Elective-I: Electronic Systems,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,3OE309,Open/Institute Elective,Open Elective-I: Software Engg. & Database Essentials,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,3OE310,Open/Institute Elective,Open Elective-I: Internet Technology,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,2CS301,Professional Elective,Professional Electives-I: Advanced Operating System,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,2CS302,Professional Elective,Professional Electives-I: Advanced Data Structure,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,2CS303,Compulsory/Major Course, Computer Architecture,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,2CS304,Compulsory/Major Course, System Software,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,2CS305,Compulsory/Major Course,Design and Analysis of Algorithm ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,5,2CS355,Compulsory/Major Course,Design and Analysis of Algorithm Lab ,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,5,2CS356,Compulsory/Major Course,Object Oriented Modeling and Design,2,0,2,3,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,5,2CS357,Compulsory/Major Course,Mini-Project-I,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,5,2CS358,Professional Elective,Professional Electives-Il: Computer Graphics and Visualization ,2,0,2,3,0,0,,100,Termwork-ISE,100,40
+2015-2016,BCS,Computer Science & Engineering,5,2CS359,Professional Elective,Professional Electives-Il: Advanced Programming,2,0,2,3,0,0,,100,Termwork-ISE,100,40
+2015-2016,BCS,Computer Science & Engineering,6,3OE321,Open/Institute Elective,Open Elective-II: Machine Foundations,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,3OE322,Open/Institute Elective,Open Elective-II: Theory of Structures,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,3OE323,Open/Institute Elective,Open Elective-II: Town Planning,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,3OE324,Open/Institute Elective,Open Elective-II: Power Plant Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,3OE325,Open/Institute Elective,Open Elective-II: Fabrication Technology ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,3OE326,Open/Institute Elective,Open Elective-II: Mechanical Power Transmission ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,3OE327,Open/Institute Elective,Open Elective-II: Renewable Energy,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,3OE328,Open/Institute Elective,Open Elective-II: Embedded Programming,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,3OE329,Open/Institute Elective,Open Elective-II: Data Analytics,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,3OE330,Open/Institute Elective,Open Elective-II: Web Design & Applications,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2CS311,Professional Elective,Professional Elective-I: Digital Image Processing ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2CS312,Professional Elective,Professional Elective-I: Intelligent Systems,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2CS313,Professional Elective,Professional Elective-I: Pervasive Computing,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2CS314,Professional Elective,Professional Elective-II: Soft Computing,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2CS315,Professional Elective,Professional Elective-II: Advanced Computer Network Technology,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2CS316,Professional Elective,Professional Elective-II: Software Testing and Quality Analysis,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2CS317,Compulsory/Major Course,Distributed & Cloud Computing,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2CS318,Compulsory/Major Course,Advanced Database System,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2HS104,Compulsory/Major Course,Engineering Economics,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2CS368,Compulsory/Major Course,Advanced Database System Lab,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2CS369,Compulsory/Major Course,Internet andWeb Programming,2,0,2,3,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,6,2CS370,Compulsory/Major Course,Mini-Project-II,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS401,Compulsory/Major Course,Information Security,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS402,Compulsory/Major Course,Data Warehousing & Data Mining,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS403,Compulsory/Major Course,Distributed & Cloud Computing,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS421,Professional Elective,Professional Elective-II: Bioinformatics,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS422,Professional Elective,Professional Elective-II: Computer Modeling and Simulation,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS423,Professional Elective,Professional Elective-II: Game Theory & Applications,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS424,Professional Elective,Professional Elective-II: High Performance Computing,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS425,Professional Elective,Professional Elective-II: Machine Learning Techniques,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS426,Professional Elective,Professional Elective-II: Mobile Adhoc and Sensor Networks,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS427,Professional Elective,Professional Elective-II: Natural Language Processing,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS428,Professional Elective,Professional Elective-II: Parallel & Distributed Database,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS429,Professional Elective,Professional Elective-II: Pattern Recognition,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS431,Open/Institute Elective,Open Elective-: Business Intelligence,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS432,Open/Institute Elective,Open Elective-: Ethical Hacking & Cyber Security,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS433,Open/Institute Elective,Open Elective-: Human Computer Interaction,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS434,Open/Institute Elective,Open Elective-: Knowledge Management,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS435,Open/Institute Elective,Open Elective-: Multimedia Computing,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS436,Open/Institute Elective,Open Elective-: Soft Computing,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS481,Compulsory/Major Course,Seminar,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS451,Compulsory/Major Course,Information Security Lab,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,7,2CS452,Compulsory/Major Course,Data Warehousing & Data Mining Lab,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BCS,Computer Science & Engineering,8,2IC402,Compulsory/Major Course,Industrial Management,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BCS,Computer Science & Engineering,8,2CS482,Compulsory/Major Course,Project SPAI or Institute ,0,0,24,12,10,30,10,50,Theory,100,40

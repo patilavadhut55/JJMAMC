@@ -1,0 +1,105 @@
+2015-2016,BIT,Information Technology Engineering,1,3PH101,Compulsory/Major Course,Engineering Physics ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,1,3MA102,Compulsory/Major Course,Engineering Mathematics II,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,1,3CE101,Compulsory/Major Course,Basic Civil Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,1,3ME102,Compulsory/Major Course,Basic Mechanical Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,1,3EN101,Compulsory/Major Course,Basic Electronics Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,1,3CS101,Compulsory/Major Course,Computer Programming ,2,0,0,2,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,1,3BS101,Open/Institute Elective,Ecology,2,0,0,2,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,1,3BS102,Open/Institute Elective,Biology,2,0,0,2,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,1,3BS103,Open/Institute Elective,Material Science,2,0,0,2,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,1,3BS104,Open/Institute Elective,Engineering Geology,2,0,0,2,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,1,3PH151,Compulsory/Major Course,Engineering Physics Lab ,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BIT,Information Technology Engineering,1,3CE151,Compulsory/Major Course,Civil Engineering Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BIT,Information Technology Engineering,1,3CS151,Compulsory/Major Course,Computer Programming Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BIT,Information Technology Engineering,1,3ME152,Compulsory/Major Course,Mechanical Workshop/ Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BIT,Information Technology Engineering,1,3EN151,Compulsory/Major Course,Electronics Engineering Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BIT,Information Technology Engineering,2,3CH101,Compulsory/Major Course,Engineering Chemistry,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,2,3MA101,Compulsory/Major Course,Engineering Mathematics I ,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,2,3AM101,Compulsory/Major Course,Engineering Mechanics,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,2,3ME101,Compulsory/Major Course,Engineering Graphics,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,2,3EE101,Compulsory/Major Course,Basic Electrical Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,2,3HS101,Open/Institute Elective,Communication Skill,2,1,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,2,3HS102,Open/Institute Elective,Foreign Language,2,1,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,2,3CH151,Compulsory/Major Course,Engineerint Chemistry Lab ,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BIT,Information Technology Engineering,2,3AM151,Compulsory/Major Course,Engineering Mechanics Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BIT,Information Technology Engineering,2,3ME151,Compulsory/Major Course,Engineering Graphics / CAD Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BIT,Information Technology Engineering,2,3EE151,Compulsory/Major Course,Basic Electrical Engineering Lab,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BIT,Information Technology Engineering,3,3MA204,Compulsory/Major Course,Liner Algebra,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,3,3IT201,Compulsory/Major Course,Discrete Mathematics,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,3,3IT202,Compulsory/Major Course,Data Structures,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,3,3IT203,Compulsory/Major Course,Processor Architecture ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,3,3IT204,Compulsory/Major Course,Data Communication & Networking,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,3,3IT252,Compulsory/Major Course,Data Structures Lab,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,3,3IT253,Compulsory/Major Course,Processor Architecture Lab ,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,3,3IT255,Compulsory/Major Course,Programming Lab-I,2,0,2,3,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,3,3IT281,Compulsory/Major Course,Mini Project-I,0,0,2,1,0,0,0,100,Termwork-ISE,100,40
+2015-2016,BIT,Information Technology Engineering,4,3MA215,Compulsory/Major Course,Statistics & Fuzzy System ,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,4,3IT211,Compulsory/Major Course,Theory of computation ,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,4,3IT212,Compulsory/Major Course,Computer Organization & Architecture,2,1,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,4,3IT213,Compulsory/Major Course,Computer & Wireless Network,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,4,3IT214,Compulsory/Major Course,System Programming,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,4,3IT263,Compulsory/Major Course,Computer & wireless network Lab,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,4,3IT265,Compulsory/Major Course,Programming Lab. -II ,2,0,2,3,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,4,3IT282,Compulsory/Major Course,Mini project-II,0,0,4,2,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,5,3OE301,Open/Institute Elective,Open Elective- I: Disaster Management,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,3OE302,Open/Institute Elective,Open Elective- I: Remote Sensing & GIS,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,3OE303,Open/Institute Elective,Open Elective- I: Application of Programming in Engineering using PYTHON,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,3OE304,Open/Institute Elective,Open Elective- I: Manufacturing Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,3OE305,Open/Institute Elective,Open Elective- I: Energy Engineering ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,3OE306,Open/Institute Elective,Open Elective- I: Mechanisms and Machines,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,3OE307,Open/Institute Elective,Open Elective- I: Electrical Machines,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,3OE308,Open/Institute Elective,Open Elective- I: Electronic Systems,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,3OE309,Open/Institute Elective,Open Elective- I: Software Engg. & Database Essentials  ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,3OE310,Open/Institute Elective,Open Elective- I: IoT: Internet Technology,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,2IT301,Compulsory/Major Course,Database Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,2IT302,Compulsory/Major Course,Software Engineering Design,2,1,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,2IT303,Compulsory/Major Course,Operating System,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,2IT304,Compulsory/Major Course,Computer Algorithm ,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,2IT305,Professional Elective,Professional Elective- I: Wireless Networks,2,1,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,2IT306,Professional Elective,Professional Elective- I: IoT: Systems & applications,2,1,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,2IT307,Professional Elective,Professional Elective- I: Data Modeling & Visualization,2,1,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,5,2IT351,Compulsory/Major Course,Database Engineering Lab,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,5,2IT358,Compulsory/Major Course,Web Technology ,1,0,2,2,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,5,2IT381,Compulsory/Major Course,Mini-Project III,0,0,4,2,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,6,3OE321,Open/Institute Elective,Open Elective-II: Machine Foundations ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,3OE322,Open/Institute Elective,Open Elective-II: Theory of Structures,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,3OE323,Open/Institute Elective,Open Elective-II: Town Planning,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,3OE324,Open/Institute Elective,Open Elective-II: Power Plant Engineering,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,3OE325,Open/Institute Elective,Open Elective-II: Fabrication Technology ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,3OE326,Open/Institute Elective,Open Elective-II: Mechanical Power Transmission ,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,3OE327,Open/Institute Elective,Open Elective-II: Renewable Energy,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,3OE328,Open/Institute Elective,Open Elective-II: Embedded Programming,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,3OE329,Open/Institute Elective,Open Elective-II: Data Analytics,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,3OE330,Open/Institute Elective,Open Elective-II: Web Design & Applications,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,2IT321,Compulsory/Major Course,Advanced Database Engineering,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,2IT322,Compulsory/Major Course,Unix Operating System,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,2IT323,Compulsory/Major Course,Information Theory ,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,2IT324,Professional Elective,Professional Elective- II: Information Storage Management,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,2IT325,Professional Elective,Professional Elective- II: Robotics,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,2IT326,Professional Elective,Professional Elective- II: Virtualization Technology,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,2IT327,Professional Elective,Professional Elective- II: Data Structure II,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,6,2IT372,Compulsory/Major Course,Unix Operating System  Lab,0,0,2,1,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,6,2IT377,Compulsory/Major Course,Parallel Programming Lab,1,0,2,2,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,6,2IT382,Compulsory/Major Course,Mini-Project IV,0,0,4,2,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IC401,Compulsory/Major Course,Engineering Economics and Business Ethics,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT401,Compulsory/Major Course,Cryptography & Network Security,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT402,Compulsory/Major Course,Data Mining,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT403,Professional Elective,Professional Elective- III: High Performance Computing,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT404,Professional Elective,Professional Elective- III: Mobile Ad-hoc Networks & Sensors,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT405,Professional Elective,Professional Elective- III: Project Management,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT406,Professional Elective,Professional Elective- III: Game Theory,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT407,Professional Elective,Professional Elective- III: Artificial Intelligence,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT408,Professional Elective,Professional Elective- III: Introduction to Mainframe,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT409,Professional Elective,Professional Elective- III: Digital Image Processing,3,1,0,4,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT455,Compulsory/Major Course,Open Source S/W Lab,2,0,2,3,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT456,Compulsory/Major Course,Software Testing & Quality Analysis Lab,2,0,2,3,0,0,50,50,POE,100,40
+2015-2016,BIT,Information Technology Engineering,7,2IT481,Compulsory/Major Course,Seminar,0,0,2,1,0,0,50,50,OE,100,40
+2015-2016,BIT,Information Technology Engineering,8,2IT411,Elective,Elective-II: Cloud Computing,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,8,2IT412,Elective,Elective-II: Bio-informatics,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,8,2IT413,Elective,Elective-II: Machine Learning,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,8,2IT414,Elective,Elective-II: Soft Computing,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,8,2IT415,Elective,Elective-II: Geographical Information System,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,8,2IT416,Elective,Elective-II: Business Intelligence,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,8,2IT417,Elective,Elective-II: Human Computer Interaction,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,8,2IT418,Elective,Elective-II: Visual Computing,3,0,0,3,10,30,10,50,Theory,100,40
+2015-2016,BIT,Information Technology Engineering,8,2IT482,Compulsory/Major Course,Project,0,0,24,12,0,0,50,50,OE,100,40
