@@ -1,0 +1,17 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>error in course structure</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+       <tbody><tr>
+        <th width="23"><div align="center">Sr No</div></th>
+        <th width="23"><div align="center">Roll NO</div></th>        
+        <th width="23"><div align="center">Prefix</div></th>
+        <th width="23"><div align="center">First Name</div></th>
+        <th width="23"><div align="center">Middle Name</div></th>
+        <th width="23"><div align="center">Last Name</div></th>
+        <th width="23"><div align="center">Address</div></th>
+        <th width="23"><div align="center">Contact</div></th>
+        <th width="23"><div align="center">Gender</div></th>
+        <th width="23"><div align="center">DOB</div></th>
+        <th width="23"><div align="center">Adharcard No.</div></th>
+        <th width="23"><div align="center">Admission Date</div></th>
+    
+      </tr>
+      </tbody></table></body></html>
