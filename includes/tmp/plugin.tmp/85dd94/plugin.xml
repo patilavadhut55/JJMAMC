@@ -1,0 +1,25 @@
+<plugin>
+	<name><![CDATA[QSlider]]></name>
+	<description><![CDATA[A jQuery-based slider with tick marks that allows the user to pick a value from a pre-defined range.]]></description>
+	<version>0.1</version>
+	<platform_version>1.1</platform_version>
+	<author name="Eduardo Garcia aka enzo" email="enzo [at] anexusit [dot] com"/>
+	<files>
+		<file type="control" filename="includes/QSlider.class.php" />
+		<file type="css" filename="css/slider.css" />
+		<file type="js" filename="js/jquery.dimensions.js" />
+		<file type="js" filename="js/ui.mouse.js" />
+		<file type="js" filename="js/ui.slider.js" />
+		<file type="image" filename="images/slider-bg-1.png" />
+		<file type="image" filename="images/slider-bg-2.png" />
+		<file type="image" filename="images/slider-handle.gif" />
+		<file type="example" filename="example/qslider.php" />
+		<file type="example" filename="example/qslider.tpl.php" />
+	</files>
+	<includes>
+		<include_files classname="QSlider" filename="includes/QSlider.class.php" />
+	</includes>
+	<examples>
+		<example filename="example/qslider.php" description="QSlider: jQuery-based Slider Control" />
+	</examples>
+</plugin>

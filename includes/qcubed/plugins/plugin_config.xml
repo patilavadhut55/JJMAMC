@@ -1,0 +1,879 @@
+<?xml version="1.0"?>
+<plugins>
+	
+
+<plugin>
+	<name><![CDATA[QAnyTimeBox]]></name>
+	<description><![CDATA[Date time picker control based on Any+Time jQuery plugin.]]></description>
+	<version>0.1</version>
+	<platform_version>2.0.1</platform_version>
+	<author name="Vardan Akopian" email="vakopian+qcubed [at] gmail [dot] com"/>
+	<files>
+		<file type="js" filename="js/anytimec.js"/>
+		<file type="css" filename="css/anytimec.css"/>
+		<file type="control" filename="includes/QAnyTimeBox.class.php"/>
+		<file type="control" filename="includes/QAnyTimeBoxBase.class.php"/>
+		<file type="example" filename="example/anytime.php"/>
+		<file type="example" filename="example/anytime.tpl.php"/>
+	</files>
+	<includes>
+		<include_files classname="QAnyTimeBox" filename="includes/QAnyTimeBox.class.php"/>
+		<include_files classname="QAnyTimeBoxBase" filename="includes/QAnyTimeBoxBase.class.php"/>
+	</includes>
+	<examples>
+		<example filename="example/anytime.php" description="QAnyTimeBox: Date time picker control"/>
+	</examples>
+</plugin>
+
+<plugin>
+	<name><![CDATA[QSlider]]></name>
+	<description><![CDATA[A jQuery-based slider with tick marks that allows the user to pick a value from a pre-defined range.]]></description>
+	<version>0.1</version>
+	<platform_version>1.1</platform_version>
+	<author name="Eduardo Garcia aka enzo" email="enzo [at] anexusit [dot] com"/>
+	<files>
+		<file type="control" filename="includes/QSlider.class.php"/>
+		<file type="css" filename="css/slider.css"/>
+		<file type="js" filename="js/jquery.dimensions.js"/>
+		<file type="js" filename="js/ui.mouse.js"/>
+		<file type="js" filename="js/ui.slider.js"/>
+		<file type="image" filename="images/slider-bg-1.png"/>
+		<file type="image" filename="images/slider-bg-2.png"/>
+		<file type="image" filename="images/slider-handle.gif"/>
+		<file type="example" filename="example/qslider.php"/>
+		<file type="example" filename="example/qslider.tpl.php"/>
+	</files>
+	<includes>
+		<include_files classname="QSlider" filename="includes/QSlider.class.php"/>
+	</includes>
+	<examples>
+		<example filename="example/qslider.php" description="QSlider: jQuery-based Slider Control"/>
+	</examples>
+</plugin>
+
+<plugin>
+	<name><![CDATA[DialogBoxes]]></name>
+	<description><![CDATA[A collection of server-side "modal" dialog boxes: QConfirmationDialog, QTextBoxPromptDialog, QRadioButtonPromptDialog.]]></description>
+	<version>0.1</version>
+	<platform_version>1.1</platform_version>
+	<author name="Alex Weinstein, a.k.a. alex94040" email="alex94040 [at] yahoo [dot] com"/>
+	<files>
+		<file type="control" filename="includes/QPromptDialog.class.php"/>
+		<file type="control" filename="includes/QTextBoxPromptDialog.class.php"/>
+		<file type="control" filename="includes/QRadioButtonPromptDialog.class.php"/>
+		<file type="control" filename="includes/QConfirmationDialog.class.php"/>
+		<file type="misc_include" filename="includes/QConfirmationDialog.tpl.php"/>
+		<file type="misc_include" filename="includes/QRadioButtonPromptDialog.tpl.php"/>
+		<file type="misc_include" filename="includes/QTextBoxPromptDialog.tpl.php"/>
+		<file type="example" filename="example/more_dialog_boxes.php"/>
+		<file type="example" filename="example/more_dialog_boxes.tpl.php"/>
+	</files>
+	<includes>
+		<include_files classname="QPromptDialog" filename="includes/QPromptDialog.class.php"/>
+		<include_files classname="QTextBoxPromptDialog" filename="includes/QTextBoxPromptDialog.class.php"/>
+		<include_files classname="QRadioButtonPromptDialog" filename="includes/QRadioButtonPromptDialog.class.php"/>
+		<include_files classname="QConfirmationDialog" filename="includes/QConfirmationDialog.class.php"/>
+	</includes>
+	<examples>
+		<example filename="example/more_dialog_boxes.php" description="* Pre-built Dialog Boxes: Confirmations and Prompts"/>
+	</examples>
+</plugin>
+
+<plugin>
+	<name><![CDATA[QCollapsablePanel]]></name>
+	<description><![CDATA[A panel the wraps a header and a body panel, where the body panel can be toggled by clicking a button or the header itself.]]></description>
+	<version>0.2</version>
+	<platform_version>2.0.2</platform_version>
+	<author name="Vardan Akopian" email="vakopian+qcubed [at] gmail [dot] com"/>
+	<files>
+		<file type="control" filename="includes/QCollapsablePanel.class.php"/>
+		<file type="example" filename="example/collapsablepanel.php"/>
+		<file type="example" filename="example/collapsablepanel.tpl.php"/>
+	</files>
+	<includes>
+		<include_files classname="QCollapsablePanel" filename="includes/QCollapsablePanel.class.php"/>
+	</includes>
+	<examples>
+		<example filename="example/collapsablepanel.php" description="QCollapsablePanel: collapsable panel"/>
+	</examples>
+</plugin>
+
+<plugin>
+	<name><![CDATA[QCaptchaTextBox]]></name>
+	<description><![CDATA[Render a textbox with Captcha Image to prevent Spam bot to hack a form.]]></description>
+	<version>1.0</version>
+	<platform_version>2.0.2</platform_version>
+	<author name="Mike Quirion" email="mikequirion [at] gmail [dot] com"/>
+	<files>
+		<file type="control" filename="includes/QCaptchaTextBox.class.php"/>
+		<file type="control" filename="includes/QCaptchaImage.class.php"/>
+		<file type="control" filename="includes/QCaptchaFilters.class.php"/>
+		<file type="control" filename="fonts/bluehigl.ttf"/>
+		<file type="control" filename="fonts/typewriterA602.ttf"/>
+		<file type="image" filename="images/errorsign.jpg"/>
+		<file type="image" filename="captcha.php"/>
+		<file type="example" filename="example/QCaptchaTextBoxExample.php"/>
+		<file type="example" filename="example/QCaptchaTextBoxExample.tpl.php"/>
+	</files>
+	<includes>
+		<include_files classname="QCaptchaTextBox" filename="includes/QCaptchaTextBox.class.php"/>
+		<include_files classname="QCaptchaImage" filename="includes/QCaptchaImage.class.php"/>
+		<include_files classname="QCaptchaFilters" filename="includes/QCaptchaFilters.class.php"/>
+	</includes>
+	<examples>
+		<example filename="example/QCaptchaTextBoxExample.php" description="QCaptchaTextBox: Simple example using QCaptcha Textbox"/>
+	</examples>
+</plugin>
+
+<plugin>
+	<name><![CDATA[QGoogleMap]]></name>
+	<description><![CDATA[Render a Google Map in a QControl, with many options and multiple addresses.]]></description>
+	<version>1.0</version>
+	<platform_version>1.1</platform_version>
+	<author name="D. Scott Carroll, a.k.a. Scottux" email="d [dot] scott [dot] carroll [at] gmail [dot] com"/>
+	<files>
+		<file type="control" filename="includes/QGoogleMap.class.php"/>
+		<file type="example" filename="example/QGoogleMapExample.php"/>
+		<file type="example" filename="example/QGoogleMapExample.tpl.php"/>
+	</files>
+	<includes>
+		<include_files classname="QGoogleMap" filename="includes/QGoogleMap.class.php"/>
+	</includes>
+	<examples>
+		<example filename="example/QGoogleMapExample.php" description="Test the Google Map API"/>
+	</examples>
+</plugin>
+
+<plugin>
+	<name><![CDATA[QTabPanel]]></name>
+	<description><![CDATA[A jQuery-based Tabs are generally used to break content into multiple sections that can be swapped to save space, much like an accordion.]]></description>
+	<version>0.1</version>
+	<platform_version>1.1</platform_version>
+	<author name="Eduardo Garcia aka enzo" email="enzo [at] anexusit [dot] com"/>
+	<files>
+		<file type="control" filename="includes/QTabPanel.class.php"/>
+		<file type="control" filename="includes/QTabPanelSection.class.php"/>
+		<file type="css" filename="css/jquery.tabs-ie.css"/>
+		<file type="css" filename="css/jquery.tabs.css"/>
+		<file type="js" filename="js/jquery.tabs.js"/>
+		<file type="image" filename="images/tab.png"/>
+		<file type="example" filename="example/tab_panel.php"/>
+		<file type="example" filename="example/tab_panel.tpl.php"/>
+	</files>
+	<includes>
+		<include_files classname="QTabPanel" filename="includes/QTabPanel.class.php"/>
+		<include_files classname="QTabPanelSection" filename="includes/QTabPanelSection.class.php"/>
+	</includes>
+	<examples>
+		<example filename="example/tab_panel.php" description="QTabPanel: jQuery-based Tabs Control"/>
+	</examples>
+</plugin>
+
+<plugin>
+	<name><![CDATA[QDateRangePicker]]></name>
+	<description><![CDATA[Date range picker control based on datrangepicker jQuery plugin.]]></description>
+	<version>0.3</version>
+	<platform_version>2.0.2</platform_version>
+	<author name="Vardan Akopian" email="vakopian+qcubed [at] gmail [dot] com"/>
+	<files>
+		<file type="js" filename="js/daterangepicker.jQuery.js"/>
+		<file type="image" filename="images/217bc0_256x240_icons_icons.png"/>
+		<file type="image" filename="images/2e83ff_256x240_icons_icons.png"/>
+		<file type="image" filename="images/469bdd_256x240_icons_icons.png"/>
+		<file type="image" filename="images/5c9ccc_500x100_textures_12_gloss_wave_55.png"/>
+		<file type="image" filename="images/6da8d5_256x240_icons_icons.png"/>
+		<file type="image" filename="images/aaaaaa_40x100_textures_01_flat_0.png"/>
+		<file type="image" filename="images/cd0a0a_256x240_icons_icons.png"/>
+		<file type="image" filename="images/d0e5f5_40x100_textures_02_glass_75.png"/>
+		<file type="image" filename="images/d8e7f3_256x240_icons_icons.png"/>
+		<file type="image" filename="images/dfeffc_40x100_textures_02_glass_85.png"/>
+		<file type="image" filename="images/f5f8f9_40x100_textures_06_inset_hard_100.png"/>
+		<file type="image" filename="images/f9bd01_256x240_icons_icons.png"/>
+		<file type="image" filename="images/fbec88_40x100_textures_01_flat_55.png"/>
+		<file type="image" filename="images/fcfdfd_40x100_textures_06_inset_hard_100.png"/>
+		<file type="image" filename="images/fef1ec_40x100_textures_02_glass_95.png"/>
+		<file type="css" filename="css/collisions.css"/>
+		<file type="css" filename="css/ui.daterangepicker.css"/>
+		<file type="control" filename="includes/QDateRangePicker.class.php"/>
+		<file type="control" filename="includes/QDateRangePickerBase.class.php"/>
+		<file type="misc_include" filename="includes/QDateRangePickerPreset.class.php"/>
+		<file type="misc_include" filename="includes/QDateRangePickerPresetRange.class.php"/>
+		<file type="example" filename="example/daterangepicker.php"/>
+		<file type="example" filename="example/daterangepicker.tpl.php"/>
+	</files>
+	<includes>
+		<include_files classname="QDateRangePicker" filename="includes/QDateRangePicker.class.php"/>
+		<include_files classname="QDateRangePickerBase" filename="includes/QDateRangePickerBase.class.php"/>
+	</includes>
+	<examples>
+		<example filename="example/daterangepicker.php" description="QDateRangePicker: Date range picker control"/>
+	</examples>
+</plugin>
+
+<plugin>
+	<name><![CDATA[QAutoCompleteTextBox]]></name>
+	<description><![CDATA[Two implementations of auto-complete functionality: matching the user input against a pre-defined list, showing them the matches: server-side (Ajax)and client-side.]]></description>
+	<version>0.12</version>
+	<platform_version>1.1</platform_version>
+	<author name="Alex Weinstein, a.k.a. alex94040" email="alex94040 [at] yahoo [dot] com"/>
+	<files>
+		<file type="control" filename="includes/QAutoCompleteTextBoxBase.class.php" />
+		<file type="control" filename="includes/QAjaxAutoCompleteTextBox.class.php" />
+		<file type="control" filename="includes/QJavaScriptAutoCompleteTextBox.class.php" />
+		<file type="image" filename="images/indicator.gif" />
+		<file type="js" filename="js/jquery.autocomplete.js" />
+		<file type="js" filename="js/jquery.bgiframe.js" />
+		<file type="css" filename="css/jquery.autocomplete.css" />
+		<file type="example" filename="example/autocomplete.php" />
+		<file type="example" filename="example/autocomplete.tpl.php" />
+	</files>
+	<includes>
+		<include_files classname="QAutoCompleteTextBoxBase" filename="includes/QAutoCompleteTextBoxBase.class.php" />
+		<include_files classname="QAjaxAutoCompleteTextBox" filename="includes/QAjaxAutoCompleteTextBox.class.php" />
+		<include_files classname="QJavaScriptAutoCompleteTextBox" filename="includes/QJavaScriptAutoCompleteTextBox.class.php" />
+	</includes>
+	<examples>
+		<example filename="example/autocomplete.php" description="* Auto-complete Textbox Example" />
+	</examples>
+</plugin>
+
+<plugin>
+	<name><![CDATA[QSelect2ListBox]]></name>
+	<description><![CDATA[Selector control based on <a href="http://ivaynberg.github.com/select2/">jQuery select2 plugin</a>.]]></description>
+	<version>0.1</version>
+	<platform_version>2.1</platform_version>
+	<author name="Vardan Akopian" email="vakopian+github [at] gmail [dot] com"/>
+	<files>
+		<file type="js" filename="select2-release-3.2/select2.min.js" />
+		<file type="css" filename="select2-release-3.2/select2.css" />
+		<file type="image" filename="select2-release-3.2/select2.png" />
+		<file type="image" filename="select2-release-3.2/select2x2.png" />
+		<file type="image" filename="select2-release-3.2/spinner.gif" />
+		<file type="control" filename="includes/QSelect2ListBox.class.php" />
+		<file type="control" filename="includes/QSelect2ListBoxBase.class.php" />
+		<file type="control" filename="includes/QSelect2ListBoxGen.class.php" />
+		<file type="example" filename="example/select2listbox.php" />
+		<file type="example" filename="example/select2listbox.tpl.php" />
+	</files>
+	<includes>
+		<include_files classname="QSelect2ListBox" filename="includes/QSelect2ListBox.class.php" />
+		<include_files classname="QSelect2ListBoxBase" filename="includes/QSelect2ListBoxBase.class.php" />
+		<include_files classname="QSelect2ListBoxGen" filename="includes/QSelect2ListBoxGen.class.php" />
+	</includes>
+	<examples>
+		<example filename="example/select2listbox.php" description="QSelect2ListBox: QSelect2ListBox: selector control based on select2 JQuery plugin" />
+	</examples>
+</plugin>
+
+<plugin>
+	<name><![CDATA[QFCKEditor]]></name>
+	<description><![CDATA[Rich-text, WYSIWYG editor for QCubed - a plugin that bridges QCubed and
+	FCKEditor together. Use it anywhere you would use an HTML text area / multiline QTextBox.]]></description>
+	<version>0.12</version>
+	<platform_version>1.1</platform_version>
+	<author name="tronics" email=""/>
+	<files>
+		<file type="control" filename="includes/QFCKEditor.class.php" />
+		<file type="js" filename="fckeditor_config.js" />
+		<file type="js" filename="js/editor/css/behaviors/disablehandles.htc" />
+		<file type="js" filename="js/editor/css/behaviors/showtableborders.htc" />
+		<file type="js" filename="js/editor/css/fck_editorarea.css" />
+		<file type="js" filename="js/editor/css/fck_internal.css" />
+		<file type="js" filename="js/editor/css/fck_showtableborders_gecko.css" />
+		<file type="js" filename="js/editor/css/images/block_address.png" />
+		<file type="js" filename="js/editor/css/images/block_blockquote.png" />
+		<file type="js" filename="js/editor/css/images/block_div.png" />
+		<file type="js" filename="js/editor/css/images/block_h1.png" />
+		<file type="js" filename="js/editor/css/images/block_h2.png" />
+		<file type="js" filename="js/editor/css/images/block_h3.png" />
+		<file type="js" filename="js/editor/css/images/block_h4.png" />
+		<file type="js" filename="js/editor/css/images/block_h5.png" />
+		<file type="js" filename="js/editor/css/images/block_h6.png" />
+		<file type="js" filename="js/editor/css/images/block_p.png" />
+		<file type="js" filename="js/editor/css/images/block_pre.png" />
+		<file type="js" filename="js/editor/css/images/fck_anchor.gif" />
+		<file type="js" filename="js/editor/css/images/fck_flashlogo.gif" />
+		<file type="js" filename="js/editor/css/images/fck_hiddenfield.gif" />
+		<file type="js" filename="js/editor/css/images/fck_pagebreak.gif" />
+		<file type="js" filename="js/editor/css/images/fck_plugin.gif" />
+		<file type="js" filename="js/editor/dialog/common/fck_dialog_common.css" />
+		<file type="js" filename="js/editor/dialog/common/fck_dialog_common.js" />
+		<file type="js" filename="js/editor/dialog/common/images/locked.gif" />
+		<file type="js" filename="js/editor/dialog/common/images/reset.gif" />
+		<file type="js" filename="js/editor/dialog/common/images/unlocked.gif" />
+		<file type="js" filename="js/editor/dialog/fck_about/logo_fckeditor.gif" />
+		<file type="js" filename="js/editor/dialog/fck_about/logo_fredck.gif" />
+		<file type="js" filename="js/editor/dialog/fck_about/sponsors/spellchecker_net.gif" />
+		<file type="js" filename="js/editor/dialog/fck_about.html" />
+		<file type="js" filename="js/editor/dialog/fck_anchor.html" />
+		<file type="js" filename="js/editor/dialog/fck_button.html" />
+		<file type="js" filename="js/editor/dialog/fck_checkbox.html" />
+		<file type="js" filename="js/editor/dialog/fck_colorselector.html" />
+		<file type="js" filename="js/editor/dialog/fck_div.html" />
+		<file type="js" filename="js/editor/dialog/fck_docprops/fck_document_preview.html" />
+		<file type="js" filename="js/editor/dialog/fck_docprops.html" />
+		<file type="js" filename="js/editor/dialog/fck_flash/fck_flash.js" />
+		<file type="js" filename="js/editor/dialog/fck_flash/fck_flash_preview.html" />
+		<file type="js" filename="js/editor/dialog/fck_flash.html" />
+		<file type="js" filename="js/editor/dialog/fck_form.html" />
+		<file type="js" filename="js/editor/dialog/fck_hiddenfield.html" />
+		<file type="js" filename="js/editor/dialog/fck_image/fck_image.js" />
+		<file type="js" filename="js/editor/dialog/fck_image/fck_image_preview.html" />
+		<file type="js" filename="js/editor/dialog/fck_image.html" />
+		<file type="js" filename="js/editor/dialog/fck_link/fck_link.js" />
+		<file type="js" filename="js/editor/dialog/fck_link.html" />
+		<file type="js" filename="js/editor/dialog/fck_listprop.html" />
+		<file type="js" filename="js/editor/dialog/fck_paste.html" />
+		<file type="js" filename="js/editor/dialog/fck_radiobutton.html" />
+		<file type="js" filename="js/editor/dialog/fck_replace.html" />
+		<file type="js" filename="js/editor/dialog/fck_select/fck_select.js" />
+		<file type="js" filename="js/editor/dialog/fck_select.html" />
+		<file type="js" filename="js/editor/dialog/fck_smiley.html" />
+		<file type="js" filename="js/editor/dialog/fck_source.html" />
+		<file type="js" filename="js/editor/dialog/fck_specialchar.html" />
+		<file type="js" filename="js/editor/dialog/fck_spellerpages/spellerpages/blank.html" />
+		<file type="js" filename="js/editor/dialog/fck_spellerpages/spellerpages/controls.html" />
+		<file type="js" filename="js/editor/dialog/fck_spellerpages/spellerpages/controlWindow.js" />
+		<file type="js" filename="js/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.cfm" />
+		<file type="js" filename="js/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.php" />
+		<file type="js" filename="js/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.pl" />
+		<file type="js" filename="js/editor/dialog/fck_spellerpages/spellerpages/spellchecker.html" />
+		<file type="js" filename="js/editor/dialog/fck_spellerpages/spellerpages/spellChecker.js" />
+		<file type="js" filename="js/editor/dialog/fck_spellerpages/spellerpages/spellerStyle.css" />
+		<file type="js" filename="js/editor/dialog/fck_spellerpages/spellerpages/wordWindow.js" />
+		<file type="js" filename="js/editor/dialog/fck_spellerpages.html" />
+		<file type="js" filename="js/editor/dialog/fck_table.html" />
+		<file type="js" filename="js/editor/dialog/fck_tablecell.html" />
+		<file type="js" filename="js/editor/dialog/fck_template/images/template1.gif" />
+		<file type="js" filename="js/editor/dialog/fck_template/images/template2.gif" />
+		<file type="js" filename="js/editor/dialog/fck_template/images/template3.gif" />
+		<file type="js" filename="js/editor/dialog/fck_template.html" />
+		<file type="js" filename="js/editor/dialog/fck_textarea.html" />
+		<file type="js" filename="js/editor/dialog/fck_textfield.html" />
+		<file type="js" filename="js/editor/dtd/fck_dtd_test.html" />
+		<file type="js" filename="js/editor/dtd/fck_xhtml10strict.js" />
+		<file type="js" filename="js/editor/dtd/fck_xhtml10transitional.js" />
+		<file type="js" filename="js/editor/fckdebug.html" />
+		<file type="js" filename="js/editor/fckdialog.html" />
+		<file type="js" filename="js/editor/fckeditor.html" />
+		<file type="js" filename="js/editor/fckeditor.original.html" />
+		<file type="js" filename="js/editor/filemanager/browser/default/browser.css" />
+		<file type="js" filename="js/editor/filemanager/browser/default/browser.html" />
+		<file type="js" filename="js/editor/filemanager/browser/default/frmactualfolder.html" />
+		<file type="js" filename="js/editor/filemanager/browser/default/frmcreatefolder.html" />
+		<file type="js" filename="js/editor/filemanager/browser/default/frmfolders.html" />
+		<file type="js" filename="js/editor/filemanager/browser/default/frmresourceslist.html" />
+		<file type="js" filename="js/editor/filemanager/browser/default/frmresourcetype.html" />
+		<file type="js" filename="js/editor/filemanager/browser/default/frmupload.html" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/ButtonArrow.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/Folder.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/Folder32.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/FolderOpened.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/FolderOpened32.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/FolderUp.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/ai.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/avi.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/bmp.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/cs.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/default.icon.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/dll.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/doc.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/exe.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/fla.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/gif.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/htm.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/html.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/jpg.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/js.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/mdb.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/mp3.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/pdf.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/png.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/ppt.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/rdp.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/swf.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/swt.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/txt.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/vsd.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/xls.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/xml.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/32/zip.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/ai.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/avi.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/bmp.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/cs.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/default.icon.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/dll.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/doc.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/exe.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/fla.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/gif.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/htm.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/html.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/jpg.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/js.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/mdb.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/mp3.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/pdf.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/png.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/ppt.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/rdp.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/swf.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/swt.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/txt.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/vsd.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/xls.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/xml.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/icons/zip.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/images/spacer.gif" />
+		<file type="js" filename="js/editor/filemanager/browser/default/js/common.js" />
+		<file type="js" filename="js/editor/filemanager/browser/default/js/fckxml.js" />
+		<file type="js" filename="js/editor/filemanager/connectors/asp/basexml.asp" />
+		<file type="js" filename="js/editor/filemanager/connectors/asp/class_upload.asp" />
+		<file type="js" filename="js/editor/filemanager/connectors/asp/commands.asp" />
+		<file type="js" filename="js/editor/filemanager/connectors/asp/config.asp" />
+		<file type="js" filename="js/editor/filemanager/connectors/asp/connector.asp" />
+		<file type="js" filename="js/editor/filemanager/connectors/asp/io.asp" />
+		<file type="js" filename="js/editor/filemanager/connectors/asp/upload.asp" />
+		<file type="js" filename="js/editor/filemanager/connectors/asp/util.asp" />
+		<file type="js" filename="js/editor/filemanager/connectors/aspx/config.ascx" />
+		<file type="js" filename="js/editor/filemanager/connectors/aspx/connector.aspx" />
+		<file type="js" filename="js/editor/filemanager/connectors/aspx/upload.aspx" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/cf5_connector.cfm" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/cf5_upload.cfm" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/cf_basexml.cfm" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/cf_commands.cfm" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/cf_connector.cfm" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/cf_io.cfm" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/cf_upload.cfm" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/cf_util.cfm" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/config.cfm" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/connector.cfm" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/image.cfc" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/ImageObject.cfc" />
+		<file type="js" filename="js/editor/filemanager/connectors/cfm/upload.cfm" />
+		<file type="js" filename="js/editor/filemanager/connectors/lasso/config.lasso" />
+		<file type="js" filename="js/editor/filemanager/connectors/lasso/connector.lasso" />
+		<file type="js" filename="js/editor/filemanager/connectors/lasso/upload.lasso" />
+		<file type="js" filename="js/editor/filemanager/connectors/perl/basexml.pl" />
+		<file type="js" filename="js/editor/filemanager/connectors/perl/commands.pl" />
+		<file type="js" filename="js/editor/filemanager/connectors/perl/connector.cgi" />
+		<file type="js" filename="js/editor/filemanager/connectors/perl/io.pl" />
+		<file type="js" filename="js/editor/filemanager/connectors/perl/upload.cgi" />
+		<file type="js" filename="js/editor/filemanager/connectors/perl/upload_fck.pl" />
+		<file type="js" filename="js/editor/filemanager/connectors/perl/util.pl" />
+		<file type="js" filename="js/editor/filemanager/connectors/php/basexml.php" />
+		<file type="js" filename="js/editor/filemanager/connectors/php/commands.php" />
+		<file type="js" filename="js/editor/filemanager/connectors/php/config.php" />
+		<file type="js" filename="js/editor/filemanager/connectors/php/connector.php" />
+		<file type="js" filename="js/editor/filemanager/connectors/php/io.php" />
+		<file type="js" filename="js/editor/filemanager/connectors/php/phpcompat.php" />
+		<file type="js" filename="js/editor/filemanager/connectors/php/upload.php" />
+		<file type="js" filename="js/editor/filemanager/connectors/php/util.php" />
+		<file type="js" filename="js/editor/filemanager/connectors/py/config.py" />
+		<file type="js" filename="js/editor/filemanager/connectors/py/connector.py" />
+		<file type="js" filename="js/editor/filemanager/connectors/py/fckcommands.py" />
+		<file type="js" filename="js/editor/filemanager/connectors/py/fckconnector.py" />
+		<file type="js" filename="js/editor/filemanager/connectors/py/fckoutput.py" />
+		<file type="js" filename="js/editor/filemanager/connectors/py/fckutil.py" />
+		<file type="js" filename="js/editor/filemanager/connectors/py/htaccess.txt" />
+		<file type="js" filename="js/editor/filemanager/connectors/py/upload.py" />
+		<file type="js" filename="js/editor/filemanager/connectors/py/wsgi.py" />
+		<file type="js" filename="js/editor/filemanager/connectors/py/zope.py" />
+		<file type="js" filename="js/editor/filemanager/connectors/test.html" />
+		<file type="js" filename="js/editor/filemanager/connectors/uploadtest.html" />
+		<file type="js" filename="js/editor/images/anchor.gif" />
+		<file type="js" filename="js/editor/images/arrow_ltr.gif" />
+		<file type="js" filename="js/editor/images/arrow_rtl.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/angel_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/angry_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/broken_heart.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/cake.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/confused_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/cry_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/devil_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/embaressed_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/envelope.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/heart.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/kiss.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/lightbulb.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/omg_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/regular_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/sad_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/shades_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/teeth_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/thumbs_down.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/thumbs_up.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/tounge_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/whatchutalkingabout_smile.gif" />
+		<file type="js" filename="js/editor/images/smiley/msn/wink_smile.gif" />
+		<file type="js" filename="js/editor/images/spacer.gif" />
+		<file type="js" filename="js/editor/js/fckadobeair.js" />
+		<file type="js" filename="js/editor/js/fckeditorcode_gecko.js" />
+		<file type="js" filename="js/editor/js/fckeditorcode_ie.js" />
+		<file type="js" filename="js/editor/lang/af.js" />
+		<file type="js" filename="js/editor/lang/ar.js" />
+		<file type="js" filename="js/editor/lang/bg.js" />
+		<file type="js" filename="js/editor/lang/bn.js" />
+		<file type="js" filename="js/editor/lang/bs.js" />
+		<file type="js" filename="js/editor/lang/ca.js" />
+		<file type="js" filename="js/editor/lang/cs.js" />
+		<file type="js" filename="js/editor/lang/da.js" />
+		<file type="js" filename="js/editor/lang/de.js" />
+		<file type="js" filename="js/editor/lang/el.js" />
+		<file type="js" filename="js/editor/lang/en-au.js" />
+		<file type="js" filename="js/editor/lang/en-ca.js" />
+		<file type="js" filename="js/editor/lang/en-uk.js" />
+		<file type="js" filename="js/editor/lang/en.js" />
+		<file type="js" filename="js/editor/lang/eo.js" />
+		<file type="js" filename="js/editor/lang/es.js" />
+		<file type="js" filename="js/editor/lang/et.js" />
+		<file type="js" filename="js/editor/lang/eu.js" />
+		<file type="js" filename="js/editor/lang/fa.js" />
+		<file type="js" filename="js/editor/lang/fi.js" />
+		<file type="js" filename="js/editor/lang/fo.js" />
+		<file type="js" filename="js/editor/lang/fr-ca.js" />
+		<file type="js" filename="js/editor/lang/fr.js" />
+		<file type="js" filename="js/editor/lang/gl.js" />
+		<file type="js" filename="js/editor/lang/gu.js" />
+		<file type="js" filename="js/editor/lang/he.js" />
+		<file type="js" filename="js/editor/lang/hi.js" />
+		<file type="js" filename="js/editor/lang/hr.js" />
+		<file type="js" filename="js/editor/lang/hu.js" />
+		<file type="js" filename="js/editor/lang/is.js" />
+		<file type="js" filename="js/editor/lang/it.js" />
+		<file type="js" filename="js/editor/lang/ja.js" />
+		<file type="js" filename="js/editor/lang/km.js" />
+		<file type="js" filename="js/editor/lang/ko.js" />
+		<file type="js" filename="js/editor/lang/lt.js" />
+		<file type="js" filename="js/editor/lang/lv.js" />
+		<file type="js" filename="js/editor/lang/mn.js" />
+		<file type="js" filename="js/editor/lang/ms.js" />
+		<file type="js" filename="js/editor/lang/nb.js" />
+		<file type="js" filename="js/editor/lang/nl.js" />
+		<file type="js" filename="js/editor/lang/no.js" />
+		<file type="js" filename="js/editor/lang/pl.js" />
+		<file type="js" filename="js/editor/lang/pt-br.js" />
+		<file type="js" filename="js/editor/lang/pt.js" />
+		<file type="js" filename="js/editor/lang/ro.js" />
+		<file type="js" filename="js/editor/lang/ru.js" />
+		<file type="js" filename="js/editor/lang/sk.js" />
+		<file type="js" filename="js/editor/lang/sl.js" />
+		<file type="js" filename="js/editor/lang/sr-latn.js" />
+		<file type="js" filename="js/editor/lang/sr.js" />
+		<file type="js" filename="js/editor/lang/sv.js" />
+		<file type="js" filename="js/editor/lang/th.js" />
+		<file type="js" filename="js/editor/lang/tr.js" />
+		<file type="js" filename="js/editor/lang/uk.js" />
+		<file type="js" filename="js/editor/lang/vi.js" />
+		<file type="js" filename="js/editor/lang/zh-cn.js" />
+		<file type="js" filename="js/editor/lang/zh.js" />
+		<file type="js" filename="js/editor/lang/_translationstatus.txt" />
+		<file type="js" filename="js/editor/plugins/autogrow/fckplugin.js" />
+		<file type="js" filename="js/editor/plugins/bbcode/fckplugin.js" />
+		<file type="js" filename="js/editor/plugins/bbcode/_sample/sample.config.js" />
+		<file type="js" filename="js/editor/plugins/bbcode/_sample/sample.html" />
+		<file type="js" filename="js/editor/plugins/dragresizetable/fckplugin.js" />
+		<file type="js" filename="js/editor/plugins/placeholder/fckplugin.js" />
+		<file type="js" filename="js/editor/plugins/placeholder/fck_placeholder.html" />
+		<file type="js" filename="js/editor/plugins/placeholder/lang/de.js" />
+		<file type="js" filename="js/editor/plugins/placeholder/lang/en.js" />
+		<file type="js" filename="js/editor/plugins/placeholder/lang/es.js" />
+		<file type="js" filename="js/editor/plugins/placeholder/lang/fr.js" />
+		<file type="js" filename="js/editor/plugins/placeholder/lang/it.js" />
+		<file type="js" filename="js/editor/plugins/placeholder/lang/pl.js" />
+		<file type="js" filename="js/editor/plugins/placeholder/placeholder.gif" />
+		<file type="js" filename="js/editor/plugins/simplecommands/fckplugin.js" />
+		<file type="js" filename="js/editor/plugins/tablecommands/fckplugin.js" />
+		<file type="js" filename="js/editor/skins/default/fck_dialog.css" />
+		<file type="js" filename="js/editor/skins/default/fck_dialog_ie6.js" />
+		<file type="js" filename="js/editor/skins/default/fck_editor.css" />
+		<file type="js" filename="js/editor/skins/default/fck_strip.gif" />
+		<file type="js" filename="js/editor/skins/default/images/dialog.sides.gif" />
+		<file type="js" filename="js/editor/skins/default/images/dialog.sides.png" />
+		<file type="js" filename="js/editor/skins/default/images/dialog.sides.rtl.png" />
+		<file type="js" filename="js/editor/skins/default/images/sprites.gif" />
+		<file type="js" filename="js/editor/skins/default/images/sprites.png" />
+		<file type="js" filename="js/editor/skins/default/images/toolbar.arrowright.gif" />
+		<file type="js" filename="js/editor/skins/default/images/toolbar.buttonarrow.gif" />
+		<file type="js" filename="js/editor/skins/default/images/toolbar.collapse.gif" />
+		<file type="js" filename="js/editor/skins/default/images/toolbar.end.gif" />
+		<file type="js" filename="js/editor/skins/default/images/toolbar.expand.gif" />
+		<file type="js" filename="js/editor/skins/default/images/toolbar.separator.gif" />
+		<file type="js" filename="js/editor/skins/default/images/toolbar.start.gif" />
+		<file type="js" filename="js/editor/skins/office2003/fck_dialog.css" />
+		<file type="js" filename="js/editor/skins/office2003/fck_dialog_ie6.js" />
+		<file type="js" filename="js/editor/skins/office2003/fck_editor.css" />
+		<file type="js" filename="js/editor/skins/office2003/fck_strip.gif" />
+		<file type="js" filename="js/editor/skins/office2003/images/dialog.sides.gif" />
+		<file type="js" filename="js/editor/skins/office2003/images/dialog.sides.png" />
+		<file type="js" filename="js/editor/skins/office2003/images/dialog.sides.rtl.png" />
+		<file type="js" filename="js/editor/skins/office2003/images/sprites.gif" />
+		<file type="js" filename="js/editor/skins/office2003/images/sprites.png" />
+		<file type="js" filename="js/editor/skins/office2003/images/toolbar.arrowright.gif" />
+		<file type="js" filename="js/editor/skins/office2003/images/toolbar.bg.gif" />
+		<file type="js" filename="js/editor/skins/office2003/images/toolbar.buttonarrow.gif" />
+		<file type="js" filename="js/editor/skins/office2003/images/toolbar.collapse.gif" />
+		<file type="js" filename="js/editor/skins/office2003/images/toolbar.end.gif" />
+		<file type="js" filename="js/editor/skins/office2003/images/toolbar.expand.gif" />
+		<file type="js" filename="js/editor/skins/office2003/images/toolbar.separator.gif" />
+		<file type="js" filename="js/editor/skins/office2003/images/toolbar.start.gif" />
+		<file type="js" filename="js/editor/skins/silver/fck_dialog.css" />
+		<file type="js" filename="js/editor/skins/silver/fck_dialog_ie6.js" />
+		<file type="js" filename="js/editor/skins/silver/fck_editor.css" />
+		<file type="js" filename="js/editor/skins/silver/fck_strip.gif" />
+		<file type="js" filename="js/editor/skins/silver/images/dialog.sides.gif" />
+		<file type="js" filename="js/editor/skins/silver/images/dialog.sides.png" />
+		<file type="js" filename="js/editor/skins/silver/images/dialog.sides.rtl.png" />
+		<file type="js" filename="js/editor/skins/silver/images/sprites.gif" />
+		<file type="js" filename="js/editor/skins/silver/images/sprites.png" />
+		<file type="js" filename="js/editor/skins/silver/images/toolbar.arrowright.gif" />
+		<file type="js" filename="js/editor/skins/silver/images/toolbar.buttonarrow.gif" />
+		<file type="js" filename="js/editor/skins/silver/images/toolbar.buttonbg.gif" />
+		<file type="js" filename="js/editor/skins/silver/images/toolbar.collapse.gif" />
+		<file type="js" filename="js/editor/skins/silver/images/toolbar.end.gif" />
+		<file type="js" filename="js/editor/skins/silver/images/toolbar.expand.gif" />
+		<file type="js" filename="js/editor/skins/silver/images/toolbar.separator.gif" />
+		<file type="js" filename="js/editor/skins/silver/images/toolbar.start.gif" />
+		<file type="js" filename="js/editor/skins/_fckviewstrips.html" />
+		<file type="js" filename="js/editor/wsc/ciframe.html" />
+		<file type="js" filename="js/editor/wsc/tmpFrameset.html" />
+		<file type="js" filename="js/editor/wsc/w.html" />
+		<file type="js" filename="js/editor/_source/classes/fckcontextmenu.js" />
+		<file type="js" filename="js/editor/_source/classes/fckdataprocessor.js" />
+		<file type="js" filename="js/editor/_source/classes/fckdocumentfragment_gecko.js" />
+		<file type="js" filename="js/editor/_source/classes/fckdocumentfragment_ie.js" />
+		<file type="js" filename="js/editor/_source/classes/fckdomrange.js" />
+		<file type="js" filename="js/editor/_source/classes/fckdomrangeiterator.js" />
+		<file type="js" filename="js/editor/_source/classes/fckdomrange_gecko.js" />
+		<file type="js" filename="js/editor/_source/classes/fckdomrange_ie.js" />
+		<file type="js" filename="js/editor/_source/classes/fckeditingarea.js" />
+		<file type="js" filename="js/editor/_source/classes/fckelementpath.js" />
+		<file type="js" filename="js/editor/_source/classes/fckenterkey.js" />
+		<file type="js" filename="js/editor/_source/classes/fckevents.js" />
+		<file type="js" filename="js/editor/_source/classes/fckhtmliterator.js" />
+		<file type="js" filename="js/editor/_source/classes/fckicon.js" />
+		<file type="js" filename="js/editor/_source/classes/fckiecleanup.js" />
+		<file type="js" filename="js/editor/_source/classes/fckimagepreloader.js" />
+		<file type="js" filename="js/editor/_source/classes/fckkeystrokehandler.js" />
+		<file type="js" filename="js/editor/_source/classes/fckmenublock.js" />
+		<file type="js" filename="js/editor/_source/classes/fckmenublockpanel.js" />
+		<file type="js" filename="js/editor/_source/classes/fckmenuitem.js" />
+		<file type="js" filename="js/editor/_source/classes/fckpanel.js" />
+		<file type="js" filename="js/editor/_source/classes/fckplugin.js" />
+		<file type="js" filename="js/editor/_source/classes/fckspecialcombo.js" />
+		<file type="js" filename="js/editor/_source/classes/fckstyle.js" />
+		<file type="js" filename="js/editor/_source/classes/fcktoolbar.js" />
+		<file type="js" filename="js/editor/_source/classes/fcktoolbarbreak_gecko.js" />
+		<file type="js" filename="js/editor/_source/classes/fcktoolbarbreak_ie.js" />
+		<file type="js" filename="js/editor/_source/classes/fcktoolbarbutton.js" />
+		<file type="js" filename="js/editor/_source/classes/fcktoolbarbuttonui.js" />
+		<file type="js" filename="js/editor/_source/classes/fcktoolbarfontformatcombo.js" />
+		<file type="js" filename="js/editor/_source/classes/fcktoolbarfontscombo.js" />
+		<file type="js" filename="js/editor/_source/classes/fcktoolbarfontsizecombo.js" />
+		<file type="js" filename="js/editor/_source/classes/fcktoolbarpanelbutton.js" />
+		<file type="js" filename="js/editor/_source/classes/fcktoolbarspecialcombo.js" />
+		<file type="js" filename="js/editor/_source/classes/fcktoolbarstylecombo.js" />
+		<file type="js" filename="js/editor/_source/classes/fckw3crange.js" />
+		<file type="js" filename="js/editor/_source/classes/fckxml.js" />
+		<file type="js" filename="js/editor/_source/classes/fckxml_gecko.js" />
+		<file type="js" filename="js/editor/_source/classes/fckxml_ie.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckblockquotecommand.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckcorestylecommand.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckfitwindow.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckindentcommands.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckjustifycommands.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fcklistcommands.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fcknamedcommand.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckpasteplaintextcommand.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckpastewordcommand.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckremoveformatcommand.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckshowblocks.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckspellcheckcommand_gecko.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckspellcheckcommand_ie.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fckstylecommand.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fcktablecommand.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fcktextcolorcommand.js" />
+		<file type="js" filename="js/editor/_source/commandclasses/fck_othercommands.js" />
+		<file type="js" filename="js/editor/_source/fckconstants.js" />
+		<file type="js" filename="js/editor/_source/fckeditorapi.js" />
+		<file type="js" filename="js/editor/_source/fckjscoreextensions.js" />
+		<file type="js" filename="js/editor/_source/fckscriptloader.js" />
+		<file type="js" filename="js/editor/_source/internals/fck.js" />
+		<file type="js" filename="js/editor/_source/internals/fckbrowserinfo.js" />
+		<file type="js" filename="js/editor/_source/internals/fckcodeformatter.js" />
+		<file type="js" filename="js/editor/_source/internals/fckcommands.js" />
+		<file type="js" filename="js/editor/_source/internals/fckconfig.js" />
+		<file type="js" filename="js/editor/_source/internals/fckdebug.js" />
+		<file type="js" filename="js/editor/_source/internals/fckdebug_empty.js" />
+		<file type="js" filename="js/editor/_source/internals/fckdialog.js" />
+		<file type="js" filename="js/editor/_source/internals/fckdocumentprocessor.js" />
+		<file type="js" filename="js/editor/_source/internals/fckdomtools.js" />
+		<file type="js" filename="js/editor/_source/internals/fcklanguagemanager.js" />
+		<file type="js" filename="js/editor/_source/internals/fcklisthandler.js" />
+		<file type="js" filename="js/editor/_source/internals/fcklistslib.js" />
+		<file type="js" filename="js/editor/_source/internals/fckplugins.js" />
+		<file type="js" filename="js/editor/_source/internals/fckregexlib.js" />
+		<file type="js" filename="js/editor/_source/internals/fckselection.js" />
+		<file type="js" filename="js/editor/_source/internals/fckselection_gecko.js" />
+		<file type="js" filename="js/editor/_source/internals/fckselection_ie.js" />
+		<file type="js" filename="js/editor/_source/internals/fckstyles.js" />
+		<file type="js" filename="js/editor/_source/internals/fcktablehandler.js" />
+		<file type="js" filename="js/editor/_source/internals/fcktablehandler_gecko.js" />
+		<file type="js" filename="js/editor/_source/internals/fcktablehandler_ie.js" />
+		<file type="js" filename="js/editor/_source/internals/fcktoolbaritems.js" />
+		<file type="js" filename="js/editor/_source/internals/fcktoolbarset.js" />
+		<file type="js" filename="js/editor/_source/internals/fcktools.js" />
+		<file type="js" filename="js/editor/_source/internals/fcktools_gecko.js" />
+		<file type="js" filename="js/editor/_source/internals/fcktools_ie.js" />
+		<file type="js" filename="js/editor/_source/internals/fckundo.js" />
+		<file type="js" filename="js/editor/_source/internals/fckurlparams.js" />
+		<file type="js" filename="js/editor/_source/internals/fckxhtml.js" />
+		<file type="js" filename="js/editor/_source/internals/fckxhtmlentities.js" />
+		<file type="js" filename="js/editor/_source/internals/fckxhtml_gecko.js" />
+		<file type="js" filename="js/editor/_source/internals/fckxhtml_ie.js" />
+		<file type="js" filename="js/editor/_source/internals/fck_contextmenu.js" />
+		<file type="js" filename="js/editor/_source/internals/fck_gecko.js" />
+		<file type="js" filename="js/editor/_source/internals/fck_ie.js" />
+		<file type="js" filename="js/fckconfig.js" />
+		<file type="js" filename="js/fckeditor.afp" />
+		<file type="js" filename="js/fckeditor.asp" />
+		<file type="js" filename="js/fckeditor.cfc" />
+		<file type="js" filename="js/fckeditor.cfm" />
+		<file type="js" filename="js/fckeditor.js" />
+		<file type="js" filename="js/fckeditor.lasso" />
+		<file type="js" filename="js/fckeditor.php" />
+		<file type="js" filename="js/fckeditor.pl" />
+		<file type="js" filename="js/fckeditor.py" />
+		<file type="js" filename="js/fckeditor_php4.php" />
+		<file type="js" filename="js/fckeditor_php5.php" />
+		<file type="js" filename="js/fckpackager.xml" />
+		<file type="js" filename="js/fckstyles.xml" />
+		<file type="js" filename="js/fcktemplates.xml" />
+		<file type="js" filename="js/fckutils.cfm" />
+		<file type="js" filename="js/license.txt" />
+		<file type="js" filename="js/_documentation.html" />
+		<file type="js" filename="js/_samples/adobeair/application.xml" />
+		<file type="js" filename="js/_samples/adobeair/icons/128.png" />
+		<file type="js" filename="js/_samples/adobeair/icons/16.png" />
+		<file type="js" filename="js/_samples/adobeair/icons/32.png" />
+		<file type="js" filename="js/_samples/adobeair/icons/48.png" />
+		<file type="js" filename="js/_samples/adobeair/package.bat" />
+		<file type="js" filename="js/_samples/adobeair/run.bat" />
+		<file type="js" filename="js/_samples/adobeair/sample01.html" />
+		<file type="js" filename="js/_samples/adobeair/sample01_cert.pfx" />
+		<file type="js" filename="js/_samples/afp/fck.afpa" />
+		<file type="js" filename="js/_samples/afp/fck.afpa.code" />
+		<file type="js" filename="js/_samples/afp/sample01.afp" />
+		<file type="js" filename="js/_samples/afp/sample02.afp" />
+		<file type="js" filename="js/_samples/afp/sample03.afp" />
+		<file type="js" filename="js/_samples/afp/sample04.afp" />
+		<file type="js" filename="js/_samples/afp/sampleposteddata.afp" />
+		<file type="js" filename="js/_samples/asp/sample01.asp" />
+		<file type="js" filename="js/_samples/asp/sample02.asp" />
+		<file type="js" filename="js/_samples/asp/sample03.asp" />
+		<file type="js" filename="js/_samples/asp/sample04.asp" />
+		<file type="js" filename="js/_samples/asp/sampleposteddata.asp" />
+		<file type="js" filename="js/_samples/cfm/sample01.cfm" />
+		<file type="js" filename="js/_samples/cfm/sample01_mx.cfm" />
+		<file type="js" filename="js/_samples/cfm/sample02.cfm" />
+		<file type="js" filename="js/_samples/cfm/sample02_mx.cfm" />
+		<file type="js" filename="js/_samples/cfm/sample03.cfm" />
+		<file type="js" filename="js/_samples/cfm/sample03_mx.cfm" />
+		<file type="js" filename="js/_samples/cfm/sample04.cfm" />
+		<file type="js" filename="js/_samples/cfm/sample04_mx.cfm" />
+		<file type="js" filename="js/_samples/cfm/sampleposteddata.cfm" />
+		<file type="js" filename="js/_samples/default.html" />
+		<file type="js" filename="js/_samples/html/assets/sample06.config.js" />
+		<file type="js" filename="js/_samples/html/assets/sample11_frame.html" />
+		<file type="js" filename="js/_samples/html/assets/sample14.config.js" />
+		<file type="js" filename="js/_samples/html/assets/sample14.styles.css" />
+		<file type="js" filename="js/_samples/html/assets/sample15.config.js" />
+		<file type="js" filename="js/_samples/html/assets/sample16.config.js" />
+		<file type="js" filename="js/_samples/html/assets/sample16.fla" />
+		<file type="js" filename="js/_samples/html/assets/sample16.swf" />
+		<file type="js" filename="js/_samples/html/assets/swfobject.js" />
+		<file type="js" filename="js/_samples/html/sample01.html" />
+		<file type="js" filename="js/_samples/html/sample02.html" />
+		<file type="js" filename="js/_samples/html/sample03.html" />
+		<file type="js" filename="js/_samples/html/sample04.html" />
+		<file type="js" filename="js/_samples/html/sample05.html" />
+		<file type="js" filename="js/_samples/html/sample06.config.js" />
+		<file type="js" filename="js/_samples/html/sample06.html" />
+		<file type="js" filename="js/_samples/html/sample07.html" />
+		<file type="js" filename="js/_samples/html/sample08.html" />
+		<file type="js" filename="js/_samples/html/sample09.html" />
+		<file type="js" filename="js/_samples/html/sample10.html" />
+		<file type="js" filename="js/_samples/html/sample11.html" />
+		<file type="js" filename="js/_samples/html/sample11_frame.html" />
+		<file type="js" filename="js/_samples/html/sample12.html" />
+		<file type="js" filename="js/_samples/html/sample13.html" />
+		<file type="js" filename="js/_samples/html/sample14.config.js" />
+		<file type="js" filename="js/_samples/html/sample14.html" />
+		<file type="js" filename="js/_samples/html/sample14.styles.css" />
+		<file type="js" filename="js/_samples/html/sample15.html" />
+		<file type="js" filename="js/_samples/html/sample16.html" />
+		<file type="js" filename="js/_samples/html/sampleposteddata.asp" />
+		<file type="js" filename="js/_samples/html/sampleposteddata.html" />
+		<file type="js" filename="js/_samples/lasso/sample01.lasso" />
+		<file type="js" filename="js/_samples/lasso/sample02.lasso" />
+		<file type="js" filename="js/_samples/lasso/sample03.lasso" />
+		<file type="js" filename="js/_samples/lasso/sample04.lasso" />
+		<file type="js" filename="js/_samples/lasso/sampleposteddata.lasso" />
+		<file type="js" filename="js/_samples/perl/sample01.cgi" />
+		<file type="js" filename="js/_samples/perl/sample02.cgi" />
+		<file type="js" filename="js/_samples/perl/sample03.cgi" />
+		<file type="js" filename="js/_samples/perl/sample04.cgi" />
+		<file type="js" filename="js/_samples/perl/sampleposteddata.cgi" />
+		<file type="js" filename="js/_samples/php/sample01.php" />
+		<file type="js" filename="js/_samples/php/sample02.php" />
+		<file type="js" filename="js/_samples/php/sample03.php" />
+		<file type="js" filename="js/_samples/php/sample04.php" />
+		<file type="js" filename="js/_samples/php/sampleposteddata.php" />
+		<file type="js" filename="js/_samples/py/sample01.py" />
+		<file type="js" filename="js/_samples/py/sampleposteddata.py" />
+		<file type="js" filename="js/_samples/sample.css" />
+		<file type="js" filename="js/_samples/sampleslist.html" />
+		<file type="js" filename="js/_samples/_plugins/findreplace/fckplugin.js" />
+		<file type="js" filename="js/_samples/_plugins/findreplace/find.gif" />
+		<file type="js" filename="js/_samples/_plugins/findreplace/find.html" />
+		<file type="js" filename="js/_samples/_plugins/findreplace/lang/en.js" />
+		<file type="js" filename="js/_samples/_plugins/findreplace/lang/fr.js" />
+		<file type="js" filename="js/_samples/_plugins/findreplace/lang/it.js" />
+		<file type="js" filename="js/_samples/_plugins/findreplace/replace.gif" />
+		<file type="js" filename="js/_samples/_plugins/findreplace/replace.html" />
+		<file type="js" filename="js/_samples/_plugins/samples/fckplugin.js" />
+		<file type="js" filename="js/_upgrade.html" />
+		<file type="js" filename="js/_whatsnew.html" />
+		<file type="js" filename="js/_whatsnew_history.html" />
+		<file type="example" filename="example/fckeditor.php" />
+		<file type="example" filename="example/fckeditor.tpl.php" />
+	</files>
+	<includes>
+		<include_files classname="QFCKEditor" filename="includes/QFCKEditor.class.php" />
+	</includes>
+	<examples>
+		<example filename="example/fckeditor.php" description="Rich Text Editing with QFCKEditor" />
+	</examples>
+</plugin>
+
+<plugin>
+	<name><![CDATA[QCurl]]></name>
+	<description><![CDATA[Server-side HTTP request wrapper (curl)]]></description>
+	<version>0.2</version>
+	<platform_version>1.1</platform_version>
+	<author name="Doc Helge Dzierzon" email="dochelge [at] gmail [dot] com"/>
+	<files>
+		<file type="control" filename="includes/QCurl.class.php" />
+		<file type="example" filename="example/qcurl.php" />
+		<file type="example" filename="example/qcurl.tpl.php" />
+	</files>
+	<includes>
+		<include_files classname="QCurl" filename="includes/QCurl.class.php" />
+	</includes>
+	<examples>
+		<example filename="example/qcurl.php" description="QCurl: Making server-side HTTP requests using a Curl wrapper" />
+	</examples>
+</plugin>
+
+</plugins>
